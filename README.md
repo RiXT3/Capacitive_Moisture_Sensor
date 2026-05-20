@@ -2,7 +2,7 @@ This project includes DXF drawings for the probes used in a capacitive soil mois
 
 The provided designs can be integrated into your own project to enable soil moisture detection.
 
-# How it works.
+# How does it work:
 A constant PWM signal is applied to the probe. 
 Pads P1 and P2 form an RC low-pass filter, whose characteristics vary depending on the soil moisture level. 
 Changes in ground moisture alter the filter response.
