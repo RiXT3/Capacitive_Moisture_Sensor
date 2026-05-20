@@ -13,6 +13,7 @@ Changes in ground moisture alter the filter response.
 **In your PCB editor, use the Import DXF option to load the provided files.**
 - Set the sensor electrodes areas as fill regions / copper pours
 - Set the sensor outline layer as the **board outline**
+  
 (Connecting traces to the sensor pads may require manually assigning or editing the net names)
 
 # Use example: 
