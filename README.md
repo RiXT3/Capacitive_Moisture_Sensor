@@ -10,7 +10,7 @@ Changes in ground moisture alter the filter response.
 <img width="981" height="450" alt="obraz" src="https://github.com/user-attachments/assets/ca77900f-c696-4e1e-8b8a-1fa836abab13" />
 
 ## Adding DXF file
-**In your PCB editor, use the Import DXF option to load the provided files.**
+**In your PCB editor, use the Import DXF option to load provided file.**
 - Set the sensor electrodes areas as fill regions / copper pours
 - Set the sensor outline layer as the **board outline**
   
