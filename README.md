@@ -1,8 +1,9 @@
 This project includes DXF drawings of the probes used in capacitive ground moisture sensor.
 
 # How it works.
-Constant PWM signal is applied on probe. P1 and P2 pads work as RC low pass filter. 
-Changes in moisture in groud change characteristics of this filter. 
+A constant PWM signal is applied to the probe. 
+Pads P1 and P2 form an RC low-pass filter, whose characteristics vary depending on the soil moisture level. 
+Changes in ground moisture alter the filter response.
 
 <img width="981" height="450" alt="obraz" src="https://github.com/user-attachments/assets/ca77900f-c696-4e1e-8b8a-1fa836abab13" />
 
