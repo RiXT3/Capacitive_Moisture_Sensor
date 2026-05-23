@@ -9,6 +9,15 @@ Changes in ground moisture alter the filter response.
 
 <img width="981" height="450" alt="obraz" src="https://github.com/user-attachments/assets/ca77900f-c696-4e1e-8b8a-1fa836abab13" />
 
+- Channel_1 = probe P1 
+
+- Channel_2 = A0 output 
+
+<img width="1270" height="594" alt="ezgif-3d75c32dca41f8db" src="https://github.com/user-attachments/assets/f11556fd-3d0a-4431-9da5-57f38523edbb" />
+
+**The sensor was dipped into and removed from a glass of water**
+
+
 ## Adding DXF file
 **In your PCB editor, use the Import DXF option to load provided file.**
 - Set the sensor electrodes areas as fill regions / copper pours
