@@ -26,4 +26,5 @@ Example used here shows solar powered moisture sensor with 433Mhz communication
 
 https://github.com/user-attachments/assets/c688091f-5fd2-4460-86bd-cce81a3519fc
 
+<img width="112" height="112" alt="Bez nazwy" src="https://github.com/user-attachments/assets/3d4f699f-9cd9-4456-bfde-777ca819c6f9" />
 
