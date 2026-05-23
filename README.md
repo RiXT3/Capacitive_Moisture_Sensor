@@ -23,3 +23,7 @@ Example used here shows solar powered moisture sensor with 433Mhz communication
 ## Do not add ground plane under sensor area
 
 
+
+https://github.com/user-attachments/assets/c688091f-5fd2-4460-86bd-cce81a3519fc
+
+
